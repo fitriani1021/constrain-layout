@@ -1,4 +1,4 @@
-package com.ardirsaputra.lfoto
+package com.fitriani.ccalculator
 
 import org.junit.Test
 
